@@ -7,10 +7,11 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.dictionaryapp.R;
-import com.example.dictionaryapp.databinding.DefinitionsListItemsBinding;
+
 
 public class DefinitionViewHolder extends RecyclerView.ViewHolder {
     public TextView textView_definition, textView_example, textView_synonyms, textView_antonyms;
+
     public DefinitionViewHolder(@NonNull View itemView) {
         super(itemView);
         textView_definition = itemView.findViewById(R.id.textView_definition);

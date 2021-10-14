@@ -10,7 +10,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.dictionaryapp.Models.Definitions;
 import com.example.dictionaryapp.R;
 import com.example.dictionaryapp.ViewHolders.DefinitionViewHolder;
-import com.example.dictionaryapp.databinding.DefinitionsListItemsBinding;
 
 import java.util.List;
 

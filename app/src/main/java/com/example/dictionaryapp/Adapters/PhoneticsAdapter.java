@@ -14,7 +14,6 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.example.dictionaryapp.Models.Phonetics;
 import com.example.dictionaryapp.R;
 import com.example.dictionaryapp.ViewHolders.PhoneticViewHolder;
-import com.example.dictionaryapp.databinding.PhoneticListItemsBinding;
 
 import java.util.List;
 

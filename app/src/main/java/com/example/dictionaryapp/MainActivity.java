@@ -13,13 +13,13 @@ import com.example.dictionaryapp.Adapters.PhoneticsAdapter;
 import com.example.dictionaryapp.Models.APIResponse;
 import com.example.dictionaryapp.databinding.ActivityMainBinding;
 
+
 public class MainActivity extends AppCompatActivity {
 
     ActivityMainBinding binding;
     ProgressDialog dialog;
     PhoneticsAdapter phoneticsAdapter;
     MeaningAdapter meaningAdapter;
-
 
 
     private final OnFetchDataListener listener = new OnFetchDataListener() {
