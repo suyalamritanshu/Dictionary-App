@@ -9,3 +9,5 @@ API Used - https://dictionaryapi.dev/
 3) Also show the antonyms as well as synonyms.
 
 ## Preview 
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/72314518/137368093-c0ae8b0a-d50c-44f4-ae07-ee70dcaac815.gif) 
